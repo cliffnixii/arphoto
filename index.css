@@ -1,0 +1,174 @@
+.header {
+	text-align: center;
+	font-weight: 100;
+	font-size: 60px;
+	font-family: 'Dancing Script', sarif;
+	color: #484848;
+	padding: 0px 0px 2px 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	
+}
+
+.tb{
+	background-color: #ffe6ee;
+	border: 13px #ffe6ee solid 
+	
+	}
+	
+.verticalLine {
+    margin-top: 5px;
+    margin-bottom: 15px;
+	border-bottom: 2px WhiteSmoke solid;
+	}
+
+.horizontalLine {
+	margin-top: 5px;
+    margin-bottom: 1px;
+	border-bottom: 3px #ffe6ee solid;
+	margin-left: 48%;
+	margin-right: 48%;
+	}
+	
+.opacity {
+	opacity: .35;
+}
+
+.pinkFont {
+	color: #ffe6ee;
+	display: inline;
+	font-size: 75px;
+
+}
+
+.borderList {
+	list-style-position: inside;
+    border-top: 1px WhiteSmoke solid;
+	border-bottom: 1px WhiteSmoke solid;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	display: inline:
+	
+}
+
+.borderList :hover {
+	opacity: .5;
+
+}
+	
+.bg {
+	background-image: url("http://i.imgur.com/Mps68Te.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center right;
+	background-repeat: no-repeat;
+	
+}
+
+.leftColumnText {
+	padding-top: 120px;
+}
+
+#backgroundImage {
+	width: 1024x;
+	height: 700px;	
+	border-top: 1px solid White;
+    border-bottom: 1px solid White;
+	margin-top: 5px;
+}
+
+#leftColumn {
+	
+width: 400px;
+height: 575px; 
+margin-top: 62px;
+margin-bottom: 62px;
+margin-left: 20%;
+background-color: #001f4d;
+outline: 1px double #ffe6ee;
+outline-offset: -20px;
+opacity: .95;
+font-family: 'Cinzel Decorative', sarif;
+font-size: 20px;
+color: #fff2e6;
+font-weight: 100;
+
+
+}
+
+#leftColumnLine {
+	
+border-bottom: 2px #ffe6ee solid;
+margin-left: 38%;
+margin-right: 38%;
+margin-top: 10px;
+
+}
+
+#leftColumnContent {
+	font-family: "Poiret One";
+	font-size: 18px;
+	color: #fff2e6S;
+	margin: 10px 40px 3px 40px;
+	
+}
+
+#socialMediaIcons {
+	color: inherit;
+	display: inline;
+	padding-right: 5px;
+	position: absolute;
+	padding-left: 42%;
+}
+
+#socialMediaIcons :hover {
+	opacity: .5;
+}
+
+
+* {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background: #fff2e6S;
+	
+	}
+	
+
+li, p {
+	font-family: 'Poiret One', sarif;
+	font-weight: bold;
+	display: inline;
+	align: center;
+
+}
+ li {
+	 list-style-type: none;
+	 padding-left: 60px; 
+	 padding-right: 60px;
+	 font-size: 18px;
+ 
+ }
+ A  {
+	text-decoration:none;
+    color: inherit;
+ } 
+ 
+
+ 
+ table {
+	 width: 300px;
+	 height: 200px;
+	 font-size: 20px;
+	 
+ }
+ 
+ th, td{
+	 height: 20px;
+	 width: 60px;
+	 text-align: center;
+	
+ }
+ 
